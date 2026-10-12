@@ -1,0 +1,7 @@
+BIND  = "*"
+SRC1  = "localhost"
+SRC2  = "localhost"
+SINK  = "localhost"
+PORT1 = "4567"
+PORT2 = "4568"
+PORT3 = "4569"
